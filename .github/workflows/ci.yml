@@ -17,15 +17,14 @@ jobs:
           node-version: "18"
 
       - run: npm ci
-
+      - run: npm run format
       - run: npm run check
-
       - run: npm run lint
-
       - run: npm run build
 
       - uses: JamesIves/github-pages-deploy-action@4.1.8
         with:
           branch: gh-pages
           folder: build
+          token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           single-commit: true
