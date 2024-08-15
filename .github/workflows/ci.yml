@@ -18,12 +18,8 @@ jobs:
 
       - run: npm ci
 
-      # Run Prettier to auto-format code before linting
-      - run: npm run format
-
       - run: npm run check
 
-      # Lint the code after it's been formatted
       - run: npm run lint
 
       - run: npm run build
