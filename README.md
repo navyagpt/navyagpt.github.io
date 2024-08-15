@@ -4,4 +4,3 @@
 ./move.sh
 ```
 
-test
