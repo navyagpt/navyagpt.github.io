@@ -4,8 +4,7 @@ date: 2023-12-23
 repo: WonkyVamp/Feature-Selection-in-High-Dimensional-RNA-Sequencing-Data
 topics:
   ["Python", "R", "feature selection", "bioinformatics", "predictive analysis"]
-lead:
-  Classification of cancer types from RNA sequencing data using feature
+lead: Classification of cancer types from RNA sequencing data using feature
   selection methods.
 image: feat.png
 image_border: true

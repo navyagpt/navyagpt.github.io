@@ -62,69 +62,119 @@
 
 <div class="layout-md text-lg space-y-14">
   <div class="space-y-5">
-    <p>
-    Hey there!    </p>
+    <p>Hey there!</p>
 
     <p>
-My name is Navya, and I'm excited to be on this journey of becoming a researcher and statistician. I love delving into <em> predictive modeling, simplifying high-dimensional data, and predicting future financial trends </em>. I'm also fascinated by the math behind algorithms. Alongside that, I'm keen on making statistics and data visualization more accessible to the general public.     </p>
+      My name is Navya, and I'm excited to be on this journey of becoming a
+      researcher and statistician. I love delving into <em>
+        predictive modeling, simplifying high-dimensional data, and predicting
+        future financial trends
+      </em>. I'm also fascinated by the math behind algorithms. Alongside that,
+      I'm keen on making statistics and data visualization more accessible to
+      the general public.
+    </p>
 
     <p>
-On a personal note, I am an avid reader and a huge fan of Hermione Granger. When I'm not busy with statistics, I’m learning how to play the violin and golf!
-
-
+      On a personal note, I am an avid reader and a huge fan of Hermione
+      Granger. When I'm not busy with statistics, I’m learning how to play the
+      violin and golf!
     </p>
   </div>
 
-<div class="leading-snug space-y-4 text-sm">
-  <p class="pb-2 text-base font-medium">TLDR:</p>
+  <div class="leading-snug space-y-4 text-sm">
+    <p class="pb-2 text-base font-medium">TLDR:</p>
 
-  <div class="space-y-4">
-    <div class="project-pair">
-      <div class="text-black font-medium">Education</div>
-      <div>
-        <p>MS in Statistics, <span class="font-semibold">University of Illinois at Urbana-Champaign</span></p>
-        <p>BTech in Computer Science and Engineering, <span class="font-semibold">Manipal Institute of Technology</span></p>
+    <div class="space-y-4">
+      <div class="project-pair">
+        <div class="text-black font-medium">Education</div>
+        <div>
+          <p>
+            MS in Statistics, <span class="font-semibold"
+              >University of Illinois at Urbana-Champaign</span
+            >
+          </p>
+          <p>
+            BTech in Computer Science and Engineering, <span
+              class="font-semibold">Manipal Institute of Technology</span
+            >
+          </p>
+        </div>
       </div>
-    </div>
 
-    <div class="project-pair">
-      <div class="text-black font-medium">Research</div>
-      <div>
-        <p>Computational models for spatial transcriptomics with Prof. Sihai Dave Zhao</p>
-        <p>Deep learning and geometrical approaches for NIR images at <span class="font-semibold">Samsung Research India</span></p>
+      <div class="project-pair">
+        <div class="text-black font-medium">Research</div>
+        <div>
+          <p>
+            Computational models for spatial transcriptomics with Prof. Sihai
+            Dave Zhao
+          </p>
+          <p>
+            Deep learning and geometrical approaches for NIR images at <span
+              class="font-semibold">Samsung Research India</span
+            >
+          </p>
+        </div>
       </div>
-    </div>
 
-    <div class="project-pair">
-      <div class="text-black font-medium">Work Experience</div>
-      <div>
-        <p>Data Science Intern @ <span class="font-semibold">Bayer R&D </span></p>
-        <p>Software Development Engineer @ <span class="font-semibold">Citrix R&D</span></p>
-        <p>Software Development Intern @ <span class="font-semibold">Citrix R&D</span></p>
-        <p>Summer Intern @ <span class="font-semibold">Fleetx</span></p>
+      <div class="project-pair">
+        <div class="text-black font-medium">Work Experience</div>
+        <div>
+          <p>
+            Data Science Intern @ <span class="font-semibold">Bayer R&D </span>
+          </p>
+          <p>
+            Software Development Engineer @ <span class="font-semibold"
+              >Citrix R&D</span
+            >
+          </p>
+          <p>
+            Software Development Intern @ <span class="font-semibold"
+              >Citrix R&D</span
+            >
+          </p>
+          <p>Summer Intern @ <span class="font-semibold">Fleetx</span></p>
+        </div>
       </div>
     </div>
   </div>
-</div>
 
   <div class="space-y-5">
     <p>
-      I am currently a Masters student at the University of Illinois at Urbana-Champaign. I worked with Prof. Sihai Dave Zhao on developing advanced computational models to process and analyze large-scale spatial transcriptomics datasets for enhanced accuracy and efficiency.
+      I am currently a Masters student at the University of Illinois at
+      Urbana-Champaign. I worked with Prof. Sihai Dave Zhao on developing
+      advanced computational models to process and analyze large-scale spatial
+      transcriptomics datasets for enhanced accuracy and efficiency.
     </p>
 
     <p>
-      I recently wrapped up my summer internship at Bayer Research and Development, where I worked on the research and development of rank correlation analyses to determine optimal moisture levels for maximizing data quality and yield predictions. <em> Excited to announce that I will be continuing as an intern this Fall semester at Bayer Research and Development </em>
-    </p>
-
-  <p>
-      Before starting my graduate studies, I worked as a Software Development Engineer at Citrix R&D, where I developed and maintained the Citrix Workspace app for HTML5 and Chrome OS. My work culminated in the best feature delivered in Q1 2023. Prior to that, I was an intern at Citrix where I optimized visualization and analytics with GA4.
+      I recently wrapped up my summer internship at Bayer Research and
+      Development, where I worked on the research and development of rank
+      correlation analyses to determine optimal moisture levels for maximizing
+      data quality and yield predictions. <em>
+        Excited to announce that I will be continuing as an intern this Fall
+        semester at Bayer Research and Development
+      </em>
     </p>
 
     <p>
-      I completed my undergraduate studies in Computer Science and Engineering with a minors in Big Data at Manipal Institute of Technology. I was an independent research associate at Samsung Research India, where I collaborated with the Visual Intelligence Team on developing deep learning and geometrical approaches for near infrared images. I was also an intern at Fleetx, a fleet management startup, where I built quantitative models to reduce fuel.
+      Before starting my graduate studies, I worked as a Software Development
+      Engineer at Citrix R&D, where I developed and maintained the Citrix
+      Workspace app for HTML5 and Chrome OS. My work culminated in the best
+      feature delivered in Q1 2023. Prior to that, I was an intern at Citrix
+      where I optimized visualization and analytics with GA4.
+    </p>
+
+    <p>
+      I completed my undergraduate studies in Computer Science and Engineering
+      with a minors in Big Data at Manipal Institute of Technology. I was an
+      independent research associate at Samsung Research India, where I
+      collaborated with the Visual Intelligence Team on developing deep learning
+      and geometrical approaches for near infrared images. I was also an intern
+      at Fleetx, a fleet management startup, where I built quantitative models
+      to reduce fuel.
+    </p>
     <p>Other interests: mathematics, reading, dancing, and singing.</p>
   </div>
-
 </div>
 
 <style lang="postcss">

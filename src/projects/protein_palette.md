@@ -10,8 +10,7 @@ topics:
     "bio-statistics",
     "predictive analysis",
   ]
-lead:
-  Determining the protein content from multiple grains using near-infrared
+lead: Determining the protein content from multiple grains using near-infrared
   spectroscopy, statistical modeling and deep learning algorithms.
 image: protein.png
 ---
