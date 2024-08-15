@@ -3,5 +3,3 @@
 ./build.sh
 ./move.sh
 ```
-
-test
