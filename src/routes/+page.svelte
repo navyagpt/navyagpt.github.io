@@ -67,17 +67,18 @@
     <p>
       My name is Navya, and I'm excited to be on this journey of becoming a
       researcher and statistician. I love delving into <em>
-        predictive modeling, simplifying high-dimensional data, and predicting
-        future financial trends
+        predictive modeling, simplifying high-dimensional data, and working
+        with real life financial and biological datasets. 
       </em>. I'm also fascinated by the math behind algorithms. Alongside that,
       I'm keen on making statistics and data visualization more accessible to
       the general public.
     </p>
 
     <p>
-      On a personal note, I am an avid reader and a huge fan of Hermione
-      Granger. When I'm not busy with statistics, I’m learning how to play the
-      violin and golf!
+      On a personal note, I am an avid reader and am currently re-reading Gone Girl. 
+      I love dancing, fun-fact : I do 5-6 different forms of dancing, but ballroom is my
+      favourite! I've also recently taken up jiu-jitsu and my abs have been aching every 
+      time I laugh or cough. Oops! 
     </p>
   </div>
 
@@ -105,7 +106,7 @@
         <div class="text-black font-medium">Research</div>
         <div>
           <p>
-            Computational models for spatial transcriptomics with Prof. Sihai
+            Computational models for spatial transcriptomics with Prof.
             Dave Zhao
           </p>
           <p>
@@ -143,7 +144,9 @@
       I am currently a Masters student at the University of Illinois at
       Urbana-Champaign. I worked with Prof. Sihai Dave Zhao on developing
       advanced computational models to process and analyze large-scale spatial
-      transcriptomics datasets for enhanced accuracy and efficiency.
+      transcriptomics datasets for enhanced accuracy and efficiency. I also contribute 
+      as a Teaching Assistant for the Astronomy department which helps me keep my 
+      love for the Cosmos alive! 
     </p>
 
     <p>
@@ -166,14 +169,17 @@
 
     <p>
       I completed my undergraduate studies in Computer Science and Engineering
-      with a minors in Big Data at Manipal Institute of Technology. I was an
-      independent research associate at Samsung Research India, where I
+      with a minors in Big Data at Manipal Institute of Technology. While there, I helped found 
+      Manipal BioMachines and also graduated as department rank 1. 
+      
+      I was an independent research associate at Samsung Research India, where I
       collaborated with the Visual Intelligence Team on developing deep learning
       and geometrical approaches for near infrared images. I was also an intern
       at Fleetx, a fleet management startup, where I built quantitative models
       to reduce fuel.
     </p>
-    <p>Other interests: mathematics, reading, dancing, and singing.</p>
+    <p>Interests: mathematics (forever love), reading(I plan on reading The Kite Runner next), 
+      dancing, crocheting(an absolute beginner, I follow tutorials!) and singing.</p>
   </div>
 </div>
 
