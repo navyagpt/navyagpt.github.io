@@ -1,6 +1,6 @@
 ```
-./run.sh
-./build.sh
-./move.sh
+make changes
+./gitter.sh
+Upload CV to gh-pages branch
 ```
 
