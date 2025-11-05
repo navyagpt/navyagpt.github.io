@@ -55,13 +55,18 @@
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  <span class="g">is a</span> statistician<span class="g">,</span><br />
+  <span class="g">is a</span> data scientist<span class="g">,</span><br />
   researcher<span class="g">, and</span><br />
   software engineer<span class="g">.</span>
 </p>
 
-<div class="layout-md flex items-start gap-8 mb-16">
-  <div class="flex-1 text-lg space-y-5">
+<div class="layout-md flex flex-col sm:flex-row items-start gap-8 mb-16">
+  <img
+    src="/assets/images/prof.jpeg"
+    alt="Navya Gupta"
+    class="w-48 h-48 object-cover rounded-lg flex-shrink-0 sm:mt-8 order-1 sm:order-2 mx-auto sm:mx-0"
+  />
+  <div class="flex-1 text-lg space-y-5 order-2 sm:order-1">
     <p>Hey there!</p>
 
     <p>
@@ -74,11 +79,6 @@
       the general public.
     </p>
   </div>
-  <img
-    src="/assets/images/prof.jpeg"
-    alt="Navya Gupta"
-    class="w-48 h-48 object-cover rounded-lg flex-shrink-0 mt-8"
-  />
 </div>
 
 <div class="layout-md text-lg mb-16">

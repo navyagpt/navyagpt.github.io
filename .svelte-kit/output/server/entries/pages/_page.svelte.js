@@ -17,11 +17,12 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
     {}
   )}
 
-<p class="layout-md text-black text-xl leading-tight font-light mb-16 svelte-ikj1jd" id="eric-is"><span class="g svelte-ikj1jd">is a</span> statistician<span class="g svelte-ikj1jd">,</span><br>
+<p class="layout-md text-black text-xl leading-tight font-light mb-16 svelte-ikj1jd" id="eric-is"><span class="g svelte-ikj1jd">is a</span> data scientist<span class="g svelte-ikj1jd">,</span><br>
   researcher<span class="g svelte-ikj1jd">, and</span><br>
   software engineer<span class="g svelte-ikj1jd">.</span></p>
 
-<div class="layout-md flex items-start gap-8 mb-16"><div class="flex-1 text-lg space-y-5"><p>Hey there!</p>
+<div class="layout-md flex flex-col sm:flex-row items-start gap-8 mb-16"><img src="/assets/images/prof.jpeg" alt="Navya Gupta" class="w-48 h-48 object-cover rounded-lg flex-shrink-0 sm:mt-8 order-1 sm:order-2 mx-auto sm:mx-0">
+  <div class="flex-1 text-lg space-y-5 order-2 sm:order-1"><p>Hey there!</p>
 
     <p>My name is Navya, and I&#39;m excited to be on this journey of becoming a
       researcher and statistician. I love delving into <em class="svelte-ikj1jd">predictive modeling, simplifying high-dimensional data, and working
@@ -29,8 +30,7 @@ const Page = create_ssr_component(($$result, $$props, $$bindings, slots) => {
       </em>. I&#39;m also fascinated by the math behind algorithms. Alongside that,
       I&#39;m keen on making statistics and data visualization more accessible to
       the general public.
-    </p></div>
-  <img src="/assets/images/prof.jpeg" alt="Navya Gupta" class="w-48 h-48 object-cover rounded-lg flex-shrink-0 mt-8"></div>
+    </p></div></div>
 
 <div class="layout-md text-lg mb-16"><p>On a personal note, I am an avid reader and am currently re-reading Gone Girl. 
     I love dancing, fun-fact : I do 5-6 different forms of dancing, but ballroom is my

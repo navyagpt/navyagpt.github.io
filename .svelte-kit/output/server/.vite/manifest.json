@@ -109,7 +109,7 @@
     "src": "src/routes/+error.svelte"
   },
   "src/routes/+layout.css": {
-    "file": "_app/immutable/assets/_layout.060da26e.css",
+    "file": "_app/immutable/assets/_layout.bac5c918.css",
     "src": "src/routes/+layout.css"
   },
   "src/routes/+layout.svelte": {
@@ -120,7 +120,7 @@
       "_app/immutable/assets/newsreader-latin-400-italic.c935023f.woff2"
     ],
     "css": [
-      "_app/immutable/assets/_layout.060da26e.css"
+      "_app/immutable/assets/_layout.bac5c918.css"
     ],
     "file": "entries/pages/_layout.svelte.js",
     "imports": [
