@@ -1,0 +1,228 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js",
+      ".svelte-kit/generated/client-optimized/nodes/3.js",
+      ".svelte-kit/generated/client-optimized/nodes/4.js",
+      ".svelte-kit/generated/client-optimized/nodes/5.js"
+    ],
+    "file": "_app/immutable/entry/app.b96345ce.js",
+    "imports": [
+      "_index.116c98fe.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/app.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.css": {
+    "file": "_app/immutable/assets/0.e4639593.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "assets": [
+      "_app/immutable/assets/newsreader-vietnamese-400-italic.15c2d816.woff2",
+      "_app/immutable/assets/newsreader-all-400-italic.b234bc8e.woff",
+      "_app/immutable/assets/newsreader-latin-ext-400-italic.5bf368d2.woff2",
+      "_app/immutable/assets/newsreader-latin-400-italic.c935023f.woff2"
+    ],
+    "css": [
+      "_app/immutable/assets/0.e4639593.css"
+    ],
+    "file": "_app/immutable/nodes/0.bb34025e.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_index.79ee50c6.js",
+      "_stores.6fddf5b2.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.3535dd25.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_stores.6fddf5b2.js",
+      "_Icon.6c8db450.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.css": {
+    "file": "_app/immutable/assets/2.5dbfbb36.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "css": [
+      "_app/immutable/assets/2.5dbfbb36.css"
+    ],
+    "file": "_app/immutable/nodes/2.6a31c179.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_Seo.d2354f56.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.css": {
+    "file": "_app/immutable/assets/3.ae31a64c.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/3.js": {
+    "assets": [
+      "_app/immutable/assets/aoc.2e8bc995.png",
+      "_app/immutable/assets/dimre.6ff43446.png",
+      "_app/immutable/assets/feat.7cce68aa.png",
+      "_app/immutable/assets/greav.6717853f.png",
+      "_app/immutable/assets/protein.a23cba4f.png",
+      "_app/immutable/assets/revels.ece3f156.png",
+      "_app/immutable/assets/stock.2418cd69.png",
+      "_app/immutable/assets/text1ue.34f77d4d.png",
+      "_app/immutable/assets/trueup.e4fb2141.png"
+    ],
+    "css": [
+      "_app/immutable/assets/3.ae31a64c.css"
+    ],
+    "file": "_app/immutable/nodes/3.f7af56f5.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_stores.6fddf5b2.js",
+      "_Icon.6c8db450.js",
+      "_Seo.d2354f56.js",
+      "_utils.c7248e99.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/3.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.css": {
+    "file": "_app/immutable/assets/4.badbca58.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/4.js": {
+    "css": [
+      "_app/immutable/assets/4.badbca58.css"
+    ],
+    "file": "_app/immutable/nodes/4.90f52646.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_Seo.d2354f56.js",
+      "_index.79ee50c6.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/4.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/5.js": {
+    "file": "_app/immutable/nodes/5.5b824571.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_Seo.d2354f56.js",
+      "_Icon.6c8db450.js",
+      "_utils.c7248e99.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/5.js"
+  },
+  "_Icon.6c8db450.js": {
+    "file": "_app/immutable/chunks/Icon.6c8db450.js",
+    "imports": [
+      "_index.116c98fe.js"
+    ]
+  },
+  "_Seo.d2354f56.js": {
+    "file": "_app/immutable/chunks/Seo.d2354f56.js",
+    "imports": [
+      "_index.116c98fe.js"
+    ]
+  },
+  "_index.116c98fe.js": {
+    "file": "_app/immutable/chunks/index.116c98fe.js"
+  },
+  "_index.79ee50c6.js": {
+    "file": "_app/immutable/chunks/index.79ee50c6.js",
+    "imports": [
+      "_index.116c98fe.js"
+    ]
+  },
+  "_singletons.ac9c6a2e.js": {
+    "file": "_app/immutable/chunks/singletons.ac9c6a2e.js",
+    "imports": [
+      "_index.116c98fe.js"
+    ]
+  },
+  "_stores.6fddf5b2.js": {
+    "file": "_app/immutable/chunks/stores.6fddf5b2.js",
+    "imports": [
+      "_singletons.ac9c6a2e.js"
+    ]
+  },
+  "_utils.c7248e99.js": {
+    "file": "_app/immutable/chunks/utils.c7248e99.js"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-all-400-italic.woff": {
+    "file": "_app/immutable/assets/newsreader-all-400-italic.b234bc8e.woff",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-all-400-italic.woff"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-latin-400-italic.woff2": {
+    "file": "_app/immutable/assets/newsreader-latin-400-italic.c935023f.woff2",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-latin-400-italic.woff2"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-latin-ext-400-italic.woff2": {
+    "file": "_app/immutable/assets/newsreader-latin-ext-400-italic.5bf368d2.woff2",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-latin-ext-400-italic.woff2"
+  },
+  "node_modules/@fontsource/newsreader/files/newsreader-vietnamese-400-italic.woff2": {
+    "file": "_app/immutable/assets/newsreader-vietnamese-400-italic.15c2d816.woff2",
+    "src": "node_modules/@fontsource/newsreader/files/newsreader-vietnamese-400-italic.woff2"
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/entry/start.2ed4207c.js",
+    "imports": [
+      "_index.116c98fe.js",
+      "_singletons.ac9c6a2e.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
+  },
+  "src/projects/aoc.png": {
+    "file": "_app/immutable/assets/aoc.2e8bc995.png",
+    "src": "src/projects/aoc.png"
+  },
+  "src/projects/dimre.png": {
+    "file": "_app/immutable/assets/dimre.6ff43446.png",
+    "src": "src/projects/dimre.png"
+  },
+  "src/projects/feat.png": {
+    "file": "_app/immutable/assets/feat.7cce68aa.png",
+    "src": "src/projects/feat.png"
+  },
+  "src/projects/greav.png": {
+    "file": "_app/immutable/assets/greav.6717853f.png",
+    "src": "src/projects/greav.png"
+  },
+  "src/projects/protein.png": {
+    "file": "_app/immutable/assets/protein.a23cba4f.png",
+    "src": "src/projects/protein.png"
+  },
+  "src/projects/revels.png": {
+    "file": "_app/immutable/assets/revels.ece3f156.png",
+    "src": "src/projects/revels.png"
+  },
+  "src/projects/stock.png": {
+    "file": "_app/immutable/assets/stock.2418cd69.png",
+    "src": "src/projects/stock.png"
+  },
+  "src/projects/text1ue.png": {
+    "file": "_app/immutable/assets/text1ue.34f77d4d.png",
+    "src": "src/projects/text1ue.png"
+  },
+  "src/projects/trueup.png": {
+    "file": "_app/immutable/assets/trueup.e4fb2141.png",
+    "src": "src/projects/trueup.png"
+  }
+}

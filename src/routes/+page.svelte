@@ -116,9 +116,6 @@
         <div class="text-black font-medium">Research</div>
         <div>
           <p>
-            Research Data Scientist @ <span class="font-semibold">Kalderos</span>
-          </p>
-          <p>
             Computational models for spatial transcriptomics with Prof.
             Dave Zhao
           </p>
@@ -133,6 +130,9 @@
       <div class="project-pair">
         <div class="text-black font-medium">Work Experience</div>
         <div>
+                  <p>
+            Research Data Scientist @ <span class="font-semibold">Kalderos</span>
+          </p>
           <p>
             Data Science Intern @ <span class="font-semibold">Bayer R&D </span>
           </p>
