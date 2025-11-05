@@ -60,8 +60,8 @@
   software engineer<span class="g">.</span>
 </p>
 
-<div class="layout-md text-lg space-y-14">
-  <div class="space-y-5">
+<div class="layout-md flex items-start gap-8 mb-16">
+  <div class="flex-1 text-lg space-y-5">
     <p>Hey there!</p>
 
     <p>
@@ -73,14 +73,24 @@
       I'm keen on making statistics and data visualization more accessible to
       the general public.
     </p>
-
-    <p>
-      On a personal note, I am an avid reader and am currently re-reading Gone Girl. 
-      I love dancing, fun-fact : I do 5-6 different forms of dancing, but ballroom is my
-      favourite! I've also recently taken up jiu-jitsu and my abs have been aching every 
-      time I laugh or cough. Oops! 
-    </p>
   </div>
+  <img
+    src="/assets/images/prof.jpeg"
+    alt="Navya Gupta"
+    class="w-48 h-48 object-cover rounded-lg flex-shrink-0 mt-8"
+  />
+</div>
+
+<div class="layout-md text-lg mb-16">
+  <p>
+    On a personal note, I am an avid reader and am currently re-reading Gone Girl. 
+    I love dancing, fun-fact : I do 5-6 different forms of dancing, but ballroom is my
+    favourite! I've also recently taken up jiu-jitsu and my abs have been aching every 
+    time I laugh or cough. Oops! 
+  </p>
+</div>
+
+<div class="layout-md text-lg space-y-14">
 
   <div class="leading-snug space-y-4 text-sm">
     <p class="pb-2 text-base font-medium">TLDR:</p>
@@ -105,6 +115,9 @@
       <div class="project-pair">
         <div class="text-black font-medium">Research</div>
         <div>
+          <p>
+            Research Data Scientist @ <span class="font-semibold">Kalderos</span>
+          </p>
           <p>
             Computational models for spatial transcriptomics with Prof.
             Dave Zhao
@@ -140,24 +153,25 @@
   </div>
 
   <div class="space-y-5">
-    <p>
-      I am currently a Masters student at the University of Illinois at
-      Urbana-Champaign. I worked with Prof. Sihai Dave Zhao on developing
-      advanced computational models to process and analyze large-scale spatial
-      transcriptomics datasets for enhanced accuracy and efficiency. I also contribute 
-      as a Teaching Assistant for the Astronomy department which helps me keep my 
-      love for the Cosmos alive! 
-    </p>
+              <p>
+              I am currently a Research Data Scientist at Kalderos, where I build and productionize 
+              ML/NLP systems that fuse text and tabular data, leverage preference learning and 
+              distillation to sharpen decisions, and partner across teams to run reliable models at scale.
+            </p>
+            <p>
+              Prior to that, I completed my Masters in Statistics at the University of Illinois at
+              Urbana-Champaign. I worked with Prof. Sihai Dave Zhao on
+              developing advanced computational models to process and analyze
+              large-scale spatial transcriptomics datasets for enhanced accuracy
+              and efficiency.
+            </p>
 
-    <p>
-      I recently wrapped up my summer internship at Bayer Research and
-      Development, where I worked on the research and development of rank
-      correlation analyses to determine optimal moisture levels for maximizing
-      data quality and yield predictions. <em>
-        Excited to announce that I will be continuing as an intern this Fall
-        semester at Bayer Research and Development
-      </em>
-    </p>
+            <p>
+              Not so long ago, I was an intern at Bayer Research and
+              Development, where I worked on developing rank correlation
+              analyses to determine optimal moisture levels for
+              maximizing data quality and yield predictions.
+            </p>
 
     <p>
       Before starting my graduate studies, I worked as a Software Development

@@ -2,9 +2,9 @@
   import { page } from "$app/stores";
 
   const links = [
-    { name: "about", href: "https://WonkyVamp.github.io"},
+    { name: "about", href: "/"},
     { name: "projects", href: "/projects" },
-    { name: "resume", href: "https://WonkyVamp.github.io/Navya_CV.pdf" },
+    { name: "resume", href: "/assets/pdf/CV.pdf" },
   ];
 //this is a comment
   let pageTitle: string | null = null;
