@@ -4,7 +4,7 @@
   const links = [
     { name: "about", href: "/"},
     { name: "projects", href: "/projects" },
-    { name: "resume", href: "/assets/pdf/CV.pdf" },
+    { name: "resume", href: "https://WonkyVamp.github.io/Navya_CV.pdf" },
   ];
 //this is a comment
   let pageTitle: string | null = null;
