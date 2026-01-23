@@ -1,7 +1,7 @@
 ---
 title: Greavify
 date: 2019-04-06
-repo: WonkyVamp/TrueUpvotes
+repo: navyagpt/TrueUpvotes
 topics: ["Python", "LSTM", "Keras", "Angular", "Tweepy", "NLP"]
 lead:
   An application to address grievances logged by college students as a part of

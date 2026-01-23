@@ -1,7 +1,7 @@
 ---
 title: StockSeer
 date: 2022-06-26
-repo: WonkyVamp/StockSeer
+repo: navyagpt/StockSeer
 topics:
   [
     "Python",
@@ -24,4 +24,4 @@ investment) analysis and correlation analysis to evaluate global stock market
 performance. Implemented an EMA10 (Exponential Moving Average 10 days) indicator
 for predictive modeling and forecasting.
 
-**Links: [GitHub](https://github.com/WonkyVamp/StockSeer)**
+**Links: [GitHub](https://github.com/navyagpt/StockSeer)**

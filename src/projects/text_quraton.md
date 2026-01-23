@@ -1,7 +1,7 @@
 ---
 title: TextQuraton
 date: 2022-08-10
-repo: WonkyVamp/TextQuraton
+repo: navyagpt/TextQuraton
 topics: ["Python", "computer vision", "NLP", "sockets", "systems"]
 lead: Invoice text curation from images.
 image: text1ue.png
@@ -15,4 +15,4 @@ alongside a CRNN and bidirectional-LSTM module to parse handwritten bills taking
 into consideration the augmented images. Achieved an accuracy of 93.67% averaged
 over all the extracted tags.
 
-**Links: [GitHub](https://github.com/WonkyVamp/TextQuraton)**
+**Links: [GitHub](https://github.com/navyagpt/TextQuraton)**

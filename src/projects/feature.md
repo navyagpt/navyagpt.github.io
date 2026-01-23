@@ -1,7 +1,7 @@
 ---
 title: Feature Selection in High Dimensional RNA Sequencing Data
 date: 2023-12-23
-repo: WonkyVamp/Feature-Selection-in-High-Dimensional-RNA-Sequencing-Data
+repo: navyagpt/Feature-Selection-in-High-Dimensional-RNA-Sequencing-Data
 topics:
   ["Python", "R", "feature selection", "bioinformatics", "predictive analysis"]
 lead: Classification of cancer types from RNA sequencing data using feature
@@ -22,4 +22,4 @@ can aid in the detection and diagnosis of cancer in women and consequently aid
 in early treatment to improve survival.
 
 **Links:
-[GitHub](https://github.com/WonkyVamp/Feature-Selection-in-High-Dimensional-RNA-Sequencing-Data)**
+[GitHub](https://github.com/navyagpt/Feature-Selection-in-High-Dimensional-RNA-Sequencing-Data)**

@@ -1,7 +1,7 @@
 ---
 title: TrueUpvotes
 date: 2022-07-30
-repo: WonkyVamp/TrueUpvotes
+repo: navyagpt/TrueUpvotes
 topics:
   [
     "Python",
@@ -33,4 +33,4 @@ alongside a CRNN and bidirectional-LSTM module to parse handwritten bills taking
 into consideration the augmented images. Achieved an accuracy of 93.67% averaged
 over all the extracted tags.
 
-**Links: [GitHub](https://github.com/WonkyVamp/TrueUpvotes)**
+**Links: [GitHub](https://github.com/navyagpt/TrueUpvotes)**

@@ -7,12 +7,12 @@
   <div class="row">
     <span>GitHub</span>
     <hr />
-    <a class="link" href="https://github.com/WonkyVamp">@WonkyVamp</a>
+    <a class="link" href="https://github.com/navyagpt">@navyagpt</a>
   </div>
   <div class="row">
     <span>Email</span>
     <hr />
-    <a class="link" href="mailto:navyag3@illinois.edu">navyag3@illinois.edu</a>
+    <a class="link" href="mailto:navya.kgupta2@gmail.com">navya.kgupta2@gmail.com</a>
   </div>
 </footer>
 

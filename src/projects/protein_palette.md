@@ -1,7 +1,7 @@
 ---
 title: Protein Palette
 date: 2022-12-05
-repo: WonkyVamp/ProteinPalette
+repo: navyagpt/ProteinPalette
 topics:
   [
     "Python",
@@ -24,4 +24,4 @@ remove linear trends and smooth the data for further analysis. Developed a deep
 belief statistical model, achieving an R2 value of 0.91 with just 300 wetlab
 samples.
 
-**Links: [GitHub](https://github.com/WonkyVamp/ProteinPalette)**
+**Links: [GitHub](https://github.com/navyagpt/ProteinPalette)**

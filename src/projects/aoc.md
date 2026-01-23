@@ -1,7 +1,7 @@
 ---
 title: Age of Coders (Web Application)
 date: 2020-08-22
-repo: WonkyVamp/Dimensionality-Reduction
+repo: navyagpt/Dimensionality-Reduction
 topics: ["JavaScript", "NodeJS", "Web application"]
 lead:
   Web application for an online coding contest with over 150 teams from colleges

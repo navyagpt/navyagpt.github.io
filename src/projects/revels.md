@@ -1,7 +1,7 @@
 ---
 title: Revels
 date: 2021-11-30
-repo: WonkyVamp/TrueUpvotes
+repo: navyagpt/TrueUpvotes
 topics: ["JavaScript", "NodeJS", "Web"]
 lead: Website for the annual cultural fest of MIT Manipal.
 image: revels.png
