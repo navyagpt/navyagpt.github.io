@@ -7,15 +7,15 @@
       role: "Research Data Scientist",
       location: "Chicago, IL",
       dates: "June 2025 - Present",
-      description: "Building ML/NLP systems for address matching and anomaly detection, delivering 46% lift in recovered revenue.",
+      description: "Ideating and building ML/DL/LLM systems in a highly regularized industry.",
       current: true
     },
     {
       company: "Bayer Research & Development",
-      role: "Machine Learning Intern",
+      role: "Machine Learning Co-op",
       location: "Champaign, IL",
       dates: "May 2024 - May 2025",
-      description: "Deployed large-scale UAV imagery pipelines and Vision Transformer models, generating $20M in operational savings.",
+      description: "I worked full-time as a Data Scientist at Bayer in my final year of MS, contributing to solving biological problems with ML/CV solutions.",
       current: false
     },
     {
@@ -47,7 +47,7 @@
 
 <Seo
   title="Navya Gupta – Experience"
-  description="Professional experience in data science, machine learning, and software engineering."
+  description="Professional experience in applied science, machine learning, and software engineering."
 />
 
 <section class="layout-md py-12">

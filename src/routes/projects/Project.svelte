@@ -50,10 +50,11 @@
 <!-- Description and image -->
 <div class="space-y-4">
   <div class="grid grid-cols-3 gap-4 md:gap-8 lg:gap-12">
-    <div class="col-span-3 md:col-span-2">
+    <div class="col-span-3" class:md:col-span-2={data.image && images[`../../projects/${data.image}`]}>
       <p class="text-lg font-light mb-3">{data.lead}</p>
       <Markdown source={data.content} />
     </div>
+    {#if data.image && images[`../../projects/${data.image}`]}
     <div class="col-span-3 md:col-span-1">
       <a rel="external" href={images[`../../projects/${data.image}`]?.default}>
         <img
@@ -63,6 +64,7 @@
         />
       </a>
     </div>
+    {/if}
   </div>
 
   {#if data.subimages}
