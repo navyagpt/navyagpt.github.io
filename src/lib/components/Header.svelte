@@ -3,6 +3,7 @@
 
   const links = [
     { name: "about", href: "/"},
+    { name: "experience", href: "/experience" },
     { name: "projects", href: "/projects" },
     { name: "resume", href: "/NavyaGupta_CV.pdf" },
   ];
